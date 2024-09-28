@@ -1,7 +1,7 @@
 <h1 align="center">Hello there<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">! I'm Syed Kashif Shah.<br> It's great to have you visit my profile!</h1>
 
 
-<h3>Languages I am currently playing around with:</h3>
+<h3 align="center">Languages I am currently playing around with:</h3>
 
 <p align="center">
     <img alt="HTML5" src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="35">

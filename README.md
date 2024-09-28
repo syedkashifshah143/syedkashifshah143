@@ -26,6 +26,8 @@
     </a>
 </p>
 
-[![GitHub: Syed Kashif Shah](https://img.shields.io/badge/-Follow%20me-20232a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syedkashifshah143)
-[![Gmail: Syed Kashif Shah](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedkashifshah3@gmail.com)
+[![GitHub: Syed Kashif Shah](https://img.shields.io/github/followers/syedkashifshah143?label=Follow%20me&style=for-the-badge&logo=github&logoColor=white&color=black)](https://github.com/syedkashifshah143)
+[![Gmail: Syed Kashif Shah](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black)](mailto:syedkashifshah3@gmail.com)
+
+
 
